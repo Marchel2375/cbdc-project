@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/cbdc/node_modules
+/cbdc/.pnp
+/cbdc/.pnp.js
+
+# testing
+/cbdc/coverage
+
+# production
+/cbdc/build
+
+# misc
+/cbdc/.DS_Store
+/cbdc/.env.local
+/cbdc/.env.development.local
+/cbdc/.env.test.local
+/cbdc/.env.production.local
+
+/cbdc/npm-debug.log*
+/cbdc/yarn-debug.log*
+/cbdc/yarn-error.log*
