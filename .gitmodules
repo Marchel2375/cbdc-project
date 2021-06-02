@@ -1,0 +1,3 @@
+[submodule "CBDC"]
+	path = CBDC
+	url = https://github.com/Marchel2375/CBDC
