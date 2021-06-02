@@ -1,3 +1,6 @@
 [submodule "CBDC"]
 	path = CBDC
 	url = https://github.com/Marchel2375/CBDC
+[submodule "cbdc"]
+	path = cbdc
+	url = https://github.com/Marchel2375/CBDC
